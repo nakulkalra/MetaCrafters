@@ -1,4 +1,4 @@
-# MyToken
+# MyToken Smart Contract
 
 **MyToken Smart Contract**  
 A simple Solidity smart contract for creating and managing a custom ERC20-like token with basic minting and burning functionalities.
